@@ -1,0 +1,9 @@
+com\selenium\utilities\XLUtils.class
+com\selenium\pageObject\AddCustomerPage.class
+com\selenium\testCases\TC_AddCustomerTest_003.class
+com\selenium\baseClass\BaseClass.class
+com\selenium\testCases\TC_loginDDT_002.class
+com\selenium\utilities\Reporting.class
+com\selenium\pageObject\LoginPage.class
+com\selenium\utilities\ReadConfig.class
+com\selenium\testCases\TC_LoginTest_001.class

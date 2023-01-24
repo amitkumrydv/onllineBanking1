@@ -1,0 +1,774 @@
+2023-01-12 21:15:43,758 - ebanking -INFO - URL is opened
+2023-01-12 21:15:43,758 [main] INFO ebanking - URL is opened
+2023-01-12 21:15:44,378 - ebanking -INFO - Entered username
+2023-01-12 21:15:44,378 [main] INFO ebanking - Entered username
+2023-01-12 21:15:44,797 - ebanking -INFO - Entered password
+2023-01-12 21:15:44,797 [main] INFO ebanking - Entered password
+2023-01-12 21:15:48,188 - ebanking -INFO - Login test Pass
+2023-01-12 21:15:48,188 [main] INFO ebanking - Login test Pass
+2023-01-12 21:17:08,460 - ebanking -INFO - URL is opened
+2023-01-12 21:17:08,460 [main] INFO ebanking - URL is opened
+2023-01-12 21:17:08,782 - ebanking -INFO - Entered username
+2023-01-12 21:17:08,782 [main] INFO ebanking - Entered username
+2023-01-12 21:17:08,953 - ebanking -INFO - Entered password
+2023-01-12 21:17:08,953 [main] INFO ebanking - Entered password
+2023-01-12 21:17:11,483 - ebanking -INFO - Login test Pass
+2023-01-12 21:17:11,483 [main] INFO ebanking - Login test Pass
+2023-01-14 22:36:44,944 - ebanking -INFO - URL is opened
+2023-01-14 22:36:44,944 [main] INFO ebanking - URL is opened
+2023-01-14 22:36:46,126 - ebanking -INFO - Entered username
+2023-01-14 22:36:46,126 [main] INFO ebanking - Entered username
+2023-01-14 22:36:46,287 - ebanking -INFO - Entered password
+2023-01-14 22:36:46,287 [main] INFO ebanking - Entered password
+2023-01-14 22:36:48,495 - ebanking -INFO - Login test Pass
+2023-01-14 22:36:48,495 [main] INFO ebanking - Login test Pass
+2023-01-15 09:15:36,421 - ebanking -INFO - URL is opened
+2023-01-15 09:15:36,421 [main] INFO ebanking - URL is opened
+2023-01-15 09:15:37,249 - ebanking -INFO - Entered username
+2023-01-15 09:15:37,249 [main] INFO ebanking - Entered username
+2023-01-15 09:15:37,592 - ebanking -INFO - Entered password
+2023-01-15 09:15:37,592 [main] INFO ebanking - Entered password
+2023-01-15 09:15:39,704 - ebanking -INFO - Login test Pass
+2023-01-15 09:15:39,704 [main] INFO ebanking - Login test Pass
+2023-01-15 09:33:12,842 - ebanking -INFO - URL is opened
+2023-01-15 09:33:12,842 [main] INFO ebanking - URL is opened
+2023-01-15 09:33:13,129 - ebanking -INFO - Entered username
+2023-01-15 09:33:13,129 [main] INFO ebanking - Entered username
+2023-01-15 09:33:13,348 - ebanking -INFO - Entered password
+2023-01-15 09:33:13,348 [main] INFO ebanking - Entered password
+2023-01-15 09:33:15,286 - ebanking -INFO - Login test Pass
+2023-01-15 09:33:15,286 [main] INFO ebanking - Login test Pass
+2023-01-15 09:34:18,349 - ebanking -INFO - URL is opened
+2023-01-15 09:34:18,349 [main] INFO ebanking - URL is opened
+2023-01-15 09:34:18,670 - ebanking -INFO - Entered username
+2023-01-15 09:34:18,670 [main] INFO ebanking - Entered username
+2023-01-15 09:34:18,898 - ebanking -INFO - Entered password
+2023-01-15 09:34:18,898 [main] INFO ebanking - Entered password
+2023-01-15 09:34:20,917 - ebanking -INFO - Login test Pass
+2023-01-15 09:34:20,917 [main] INFO ebanking - Login test Pass
+2023-01-15 09:39:47,303 - ebanking -INFO - URL is opened
+2023-01-15 09:39:47,303 [main] INFO ebanking - URL is opened
+2023-01-15 09:39:47,636 - ebanking -INFO - Entered username
+2023-01-15 09:39:47,636 [main] INFO ebanking - Entered username
+2023-01-15 09:39:47,861 - ebanking -INFO - Entered password
+2023-01-15 09:39:47,861 [main] INFO ebanking - Entered password
+2023-01-15 09:39:49,739 - ebanking -INFO - Login test Pass
+2023-01-15 09:39:49,739 [main] INFO ebanking - Login test Pass
+2023-01-15 09:41:00,325 - ebanking -INFO - URL is opened
+2023-01-15 09:41:00,325 [main] INFO ebanking - URL is opened
+2023-01-15 09:41:00,935 - ebanking -INFO - Entered username
+2023-01-15 09:41:00,935 [main] INFO ebanking - Entered username
+2023-01-15 09:41:01,408 - ebanking -INFO - Entered password
+2023-01-15 09:41:01,408 [main] INFO ebanking - Entered password
+2023-01-15 09:41:03,194 - ebanking -INFO - Login test Pass
+2023-01-15 09:41:03,194 [main] INFO ebanking - Login test Pass
+2023-01-15 09:46:23,713 - ebanking -INFO - URL is opened
+2023-01-15 09:46:23,713 [main] INFO ebanking - URL is opened
+2023-01-15 09:46:24,110 - ebanking -INFO - Entered username
+2023-01-15 09:46:24,110 [main] INFO ebanking - Entered username
+2023-01-15 09:46:24,312 - ebanking -INFO - Entered password
+2023-01-15 09:46:24,312 [main] INFO ebanking - Entered password
+2023-01-15 09:46:27,035 - ebanking -INFO - Login test Pass
+2023-01-15 09:46:27,035 [main] INFO ebanking - Login test Pass
+2023-01-15 09:53:14,920 - ebanking -INFO - URL is opened
+2023-01-15 09:53:14,920 [main] INFO ebanking - URL is opened
+2023-01-15 09:53:15,394 - ebanking -INFO - Entered username
+2023-01-15 09:53:15,394 [main] INFO ebanking - Entered username
+2023-01-15 09:53:16,126 - ebanking -INFO - Entered password
+2023-01-15 09:53:16,126 [main] INFO ebanking - Entered password
+2023-01-15 09:53:18,046 - ebanking -INFO - Login test Pass
+2023-01-15 09:53:18,046 [main] INFO ebanking - Login test Pass
+2023-01-15 09:55:32,323 - ebanking -INFO - URL is opened
+2023-01-15 09:55:32,323 [main] INFO ebanking - URL is opened
+2023-01-15 09:55:32,619 - ebanking -INFO - Entered username
+2023-01-15 09:55:32,619 [main] INFO ebanking - Entered username
+2023-01-15 09:55:32,936 - ebanking -INFO - Entered password
+2023-01-15 09:55:32,936 [main] INFO ebanking - Entered password
+2023-01-15 09:55:34,832 - ebanking -INFO - Login test Pass
+2023-01-15 09:55:34,832 [main] INFO ebanking - Login test Pass
+2023-01-15 09:55:57,512 - ebanking -INFO - URL is opened
+2023-01-15 09:55:57,512 [main] INFO ebanking - URL is opened
+2023-01-15 09:55:57,797 - ebanking -INFO - Entered username
+2023-01-15 09:55:57,797 [main] INFO ebanking - Entered username
+2023-01-15 09:55:58,034 - ebanking -INFO - Entered password
+2023-01-15 09:55:58,034 [main] INFO ebanking - Entered password
+2023-01-15 09:56:00,082 - ebanking -INFO - Login test Pass
+2023-01-15 09:56:00,082 [main] INFO ebanking - Login test Pass
+2023-01-15 09:56:55,319 - ebanking -INFO - URL is opened
+2023-01-15 09:56:55,319 [main] INFO ebanking - URL is opened
+2023-01-15 09:56:55,619 - ebanking -INFO - Entered username
+2023-01-15 09:56:55,619 [main] INFO ebanking - Entered username
+2023-01-15 09:56:55,837 - ebanking -INFO - Entered password
+2023-01-15 09:56:55,837 [main] INFO ebanking - Entered password
+2023-01-15 09:56:57,782 - ebanking -INFO - Login test Pass
+2023-01-15 09:56:57,782 [main] INFO ebanking - Login test Pass
+2023-01-15 16:29:20,466 - ebanking -INFO - URL is opened
+2023-01-15 16:29:20,466 [main] INFO ebanking - URL is opened
+2023-01-15 16:29:21,036 - ebanking -INFO - Entered username
+2023-01-15 16:29:21,036 [main] INFO ebanking - Entered username
+2023-01-15 16:29:21,271 - ebanking -INFO - Entered password
+2023-01-15 16:29:21,271 [main] INFO ebanking - Entered password
+2023-01-15 16:29:24,386 - ebanking -INFO - Login test Pass
+2023-01-15 16:29:24,386 [main] INFO ebanking - Login test Pass
+2023-01-15 16:31:32,102 - ebanking -INFO - URL is opened
+2023-01-15 16:31:32,102 [main] INFO ebanking - URL is opened
+2023-01-15 16:31:32,530 - ebanking -INFO - Entered username
+2023-01-15 16:31:32,530 [main] INFO ebanking - Entered username
+2023-01-15 16:31:32,791 - ebanking -INFO - Entered password
+2023-01-15 16:31:32,791 [main] INFO ebanking - Entered password
+2023-01-15 16:31:36,422 - ebanking -INFO - Login test Pass
+2023-01-15 16:31:36,422 [main] INFO ebanking - Login test Pass
+2023-01-15 16:33:53,740 - ebanking -INFO - URL is opened
+2023-01-15 16:33:53,740 [main] INFO ebanking - URL is opened
+2023-01-15 16:33:54,434 - ebanking -INFO - Entered username
+2023-01-15 16:33:54,434 [main] INFO ebanking - Entered username
+2023-01-15 16:33:54,987 - ebanking -INFO - Entered password
+2023-01-15 16:33:54,987 [main] INFO ebanking - Entered password
+2023-01-15 16:39:04,237 - ebanking -INFO - URL is opened
+2023-01-15 16:39:04,237 [main] INFO ebanking - URL is opened
+2023-01-15 16:39:04,522 - ebanking -INFO - Entered username
+2023-01-15 16:39:04,522 [main] INFO ebanking - Entered username
+2023-01-15 16:39:04,978 - ebanking -INFO - Entered password
+2023-01-15 16:39:04,978 [main] INFO ebanking - Entered password
+2023-01-15 16:39:07,306 - ebanking -INFO - Login test Pass
+2023-01-15 16:39:07,306 [main] INFO ebanking - Login test Pass
+2023-01-15 17:12:30,098 - ebanking -INFO - URL is opened
+2023-01-15 17:12:30,098 [main] INFO ebanking - URL is opened
+2023-01-15 17:12:30,485 - ebanking -INFO - Entered username
+2023-01-15 17:12:30,485 [main] INFO ebanking - Entered username
+2023-01-15 17:12:30,908 - ebanking -INFO - Entered password
+2023-01-15 17:12:30,908 [main] INFO ebanking - Entered password
+2023-01-15 17:12:32,760 - ebanking -INFO - Login test Pass
+2023-01-15 17:12:32,760 [main] INFO ebanking - Login test Pass
+2023-01-15 17:13:25,184 - ebanking -INFO - URL is opened
+2023-01-15 17:13:25,184 [main] INFO ebanking - URL is opened
+2023-01-15 17:13:25,530 - ebanking -INFO - Entered username
+2023-01-15 17:13:25,530 [main] INFO ebanking - Entered username
+2023-01-15 17:13:25,933 - ebanking -INFO - Entered password
+2023-01-15 17:13:25,933 [main] INFO ebanking - Entered password
+2023-01-15 17:13:27,719 - ebanking -INFO - Login test Pass
+2023-01-15 17:13:27,719 [main] INFO ebanking - Login test Pass
+2023-01-15 17:14:14,084 - ebanking -INFO - URL is opened
+2023-01-15 17:14:14,084 [main] INFO ebanking - URL is opened
+2023-01-15 17:14:14,449 - ebanking -INFO - Entered username
+2023-01-15 17:14:14,449 [main] INFO ebanking - Entered username
+2023-01-15 17:14:15,155 - ebanking -INFO - Entered password
+2023-01-15 17:14:15,155 [main] INFO ebanking - Entered password
+2023-01-15 17:14:17,112 - ebanking -INFO - Login test Pass
+2023-01-15 17:14:17,112 [main] INFO ebanking - Login test Pass
+2023-01-15 17:37:15,270 - ebanking -INFO - URL is opened
+2023-01-15 17:37:15,270 [main] INFO ebanking - URL is opened
+2023-01-15 17:37:15,648 - ebanking -INFO - Entered username
+2023-01-15 17:37:15,648 [main] INFO ebanking - Entered username
+2023-01-15 17:37:15,984 - ebanking -INFO - Entered password
+2023-01-15 17:37:15,984 [main] INFO ebanking - Entered password
+2023-01-15 17:37:18,327 - ebanking -INFO - Login test Pass
+2023-01-15 17:37:18,327 [main] INFO ebanking - Login test Pass
+2023-01-15 17:38:31,438 - ebanking -INFO - URL is opened
+2023-01-15 17:38:31,438 [main] INFO ebanking - URL is opened
+2023-01-15 17:38:31,734 - ebanking -INFO - Entered username
+2023-01-15 17:38:31,734 [main] INFO ebanking - Entered username
+2023-01-15 17:38:32,055 - ebanking -INFO - Entered password
+2023-01-15 17:38:32,055 [main] INFO ebanking - Entered password
+2023-01-15 17:38:34,789 - ebanking -INFO - Login test Pass
+2023-01-15 17:38:34,789 [main] INFO ebanking - Login test Pass
+2023-01-15 17:39:15,913 - ebanking -INFO - URL is opened
+2023-01-15 17:39:15,913 [main] INFO ebanking - URL is opened
+2023-01-15 17:39:16,409 - ebanking -INFO - Entered username
+2023-01-15 17:39:16,409 [main] INFO ebanking - Entered username
+2023-01-15 17:39:16,687 - ebanking -INFO - Entered password
+2023-01-15 17:39:16,687 [main] INFO ebanking - Entered password
+2023-01-15 17:39:19,124 - ebanking -INFO - Login test Pass
+2023-01-15 17:39:19,124 [main] INFO ebanking - Login test Pass
+2023-01-15 17:40:12,370 - ebanking -INFO - URL is opened
+2023-01-15 17:40:12,370 [main] INFO ebanking - URL is opened
+2023-01-15 17:40:12,878 - ebanking -INFO - Entered username
+2023-01-15 17:40:12,878 [main] INFO ebanking - Entered username
+2023-01-15 17:40:13,377 - ebanking -INFO - Entered password
+2023-01-15 17:40:13,377 [main] INFO ebanking - Entered password
+2023-01-15 17:40:15,382 - ebanking -INFO - Login test Pass
+2023-01-15 17:40:15,382 [main] INFO ebanking - Login test Pass
+2023-01-15 17:43:20,212 - ebanking -INFO - URL is opened
+2023-01-15 17:43:20,212 [main] INFO ebanking - URL is opened
+2023-01-15 17:43:20,519 - ebanking -INFO - Entered username
+2023-01-15 17:43:20,519 [main] INFO ebanking - Entered username
+2023-01-15 17:43:20,962 - ebanking -INFO - Entered password
+2023-01-15 17:43:20,962 [main] INFO ebanking - Entered password
+2023-01-15 17:43:22,771 - ebanking -INFO - Login test Pass
+2023-01-15 17:43:22,771 [main] INFO ebanking - Login test Pass
+2023-01-15 17:49:01,046 - ebanking -INFO - URL is opened
+2023-01-15 17:49:01,046 [main] INFO ebanking - URL is opened
+2023-01-15 17:49:01,551 - ebanking -INFO - Entered username
+2023-01-15 17:49:01,551 [main] INFO ebanking - Entered username
+2023-01-15 17:49:02,323 - ebanking -INFO - Entered password
+2023-01-15 17:49:02,323 [main] INFO ebanking - Entered password
+2023-01-15 17:49:04,189 - ebanking -INFO - Login test Pass
+2023-01-15 17:49:04,189 [main] INFO ebanking - Login test Pass
+2023-01-15 17:50:11,311 - ebanking -INFO - URL is opened
+2023-01-15 17:50:11,311 [main] INFO ebanking - URL is opened
+2023-01-15 17:50:11,652 - ebanking -INFO - Entered username
+2023-01-15 17:50:11,652 [main] INFO ebanking - Entered username
+2023-01-15 17:50:11,976 - ebanking -INFO - Entered password
+2023-01-15 17:50:11,976 [main] INFO ebanking - Entered password
+2023-01-15 17:50:13,775 - ebanking -INFO - Login test Pass
+2023-01-15 17:50:13,775 [main] INFO ebanking - Login test Pass
+2023-01-15 17:52:52,898 - ebanking -INFO - URL is opened
+2023-01-15 17:52:52,898 [main] INFO ebanking - URL is opened
+2023-01-15 17:52:53,411 - ebanking -INFO - Entered username
+2023-01-15 17:52:53,411 [main] INFO ebanking - Entered username
+2023-01-15 17:52:53,885 - ebanking -INFO - Entered password
+2023-01-15 17:52:53,885 [main] INFO ebanking - Entered password
+2023-01-15 17:52:56,103 - ebanking -INFO - Login test Pass
+2023-01-15 17:52:56,103 [main] INFO ebanking - Login test Pass
+2023-01-15 17:55:15,091 - ebanking -INFO - URL is opened
+2023-01-15 17:55:15,091 [main] INFO ebanking - URL is opened
+2023-01-15 17:55:15,450 - ebanking -INFO - Entered username
+2023-01-15 17:55:15,450 [main] INFO ebanking - Entered username
+2023-01-15 17:55:15,928 - ebanking -INFO - Entered password
+2023-01-15 17:55:15,928 [main] INFO ebanking - Entered password
+2023-01-15 17:55:17,793 - ebanking -INFO - Login test Pass
+2023-01-15 17:55:17,793 [main] INFO ebanking - Login test Pass
+2023-01-15 17:59:29,982 - ebanking -INFO - URL is opened
+2023-01-15 17:59:29,982 [main] INFO ebanking - URL is opened
+2023-01-15 17:59:30,337 - ebanking -INFO - Entered username
+2023-01-15 17:59:30,337 [main] INFO ebanking - Entered username
+2023-01-15 17:59:30,496 - ebanking -INFO - Entered password
+2023-01-15 17:59:30,496 [main] INFO ebanking - Entered password
+2023-01-15 17:59:32,892 - ebanking -INFO - Login test Pass
+2023-01-15 17:59:32,892 [main] INFO ebanking - Login test Pass
+2023-01-15 18:00:20,368 - ebanking -INFO - URL is opened
+2023-01-15 18:00:20,368 [main] INFO ebanking - URL is opened
+2023-01-15 18:00:20,763 - ebanking -INFO - Entered username
+2023-01-15 18:00:20,763 [main] INFO ebanking - Entered username
+2023-01-15 18:00:21,128 - ebanking -INFO - Entered password
+2023-01-15 18:00:21,128 [main] INFO ebanking - Entered password
+2023-01-15 18:00:23,045 - ebanking -INFO - Login test Pass
+2023-01-15 18:00:23,045 [main] INFO ebanking - Login test Pass
+2023-01-15 23:37:17,126 - ebanking -INFO - URL is opened
+2023-01-15 23:37:17,126 [main] INFO ebanking - URL is opened
+2023-01-15 23:37:17,898 - ebanking -INFO - Entered username
+2023-01-15 23:37:17,898 [main] INFO ebanking - Entered username
+2023-01-15 23:37:18,217 - ebanking -INFO - Entered password
+2023-01-15 23:37:18,217 [main] INFO ebanking - Entered password
+2023-01-15 23:42:55,014 - ebanking -INFO - URL is opened
+2023-01-15 23:42:55,014 [main] INFO ebanking - URL is opened
+2023-01-15 23:42:55,282 - ebanking -INFO - Entered username
+2023-01-15 23:42:55,282 [main] INFO ebanking - Entered username
+2023-01-15 23:42:55,643 - ebanking -INFO - Entered password
+2023-01-15 23:42:55,643 [main] INFO ebanking - Entered password
+2023-01-16 21:18:14,779 - ebanking -INFO - URL is opened
+2023-01-16 21:18:14,779 [main] INFO ebanking - URL is opened
+2023-01-16 21:18:15,110 - ebanking -INFO - Entered username
+2023-01-16 21:18:15,110 [main] INFO ebanking - Entered username
+2023-01-16 21:18:16,013 - ebanking -INFO - Entered password
+2023-01-16 21:18:16,013 [main] INFO ebanking - Entered password
+2023-01-16 21:19:45,506 - ebanking -INFO - URL is opened
+2023-01-16 21:19:45,506 [main] INFO ebanking - URL is opened
+2023-01-16 21:19:45,798 - ebanking -INFO - Entered username
+2023-01-16 21:19:45,798 [main] INFO ebanking - Entered username
+2023-01-16 21:19:46,494 - ebanking -INFO - Entered password
+2023-01-16 21:19:46,494 [main] INFO ebanking - Entered password
+2023-01-17 23:04:59,295 - ebanking -INFO - Username Provided
+2023-01-17 23:04:59,295 [main] INFO ebanking - Username Provided
+2023-01-17 23:04:59,522 - ebanking -INFO - Password Provided
+2023-01-17 23:04:59,522 [main] INFO ebanking - Password Provided
+2023-01-17 23:05:00,227 - ebanking -INFO - Clicked login button
+2023-01-17 23:05:00,227 [main] INFO ebanking - Clicked login button
+2023-01-17 23:05:02,502 - ebanking -INFO - Username Provided
+2023-01-17 23:05:02,502 [main] INFO ebanking - Username Provided
+2023-01-17 23:05:02,677 - ebanking -INFO - Password Provided
+2023-01-17 23:05:02,677 [main] INFO ebanking - Password Provided
+2023-01-17 23:05:03,123 - ebanking -INFO - Clicked login button
+2023-01-17 23:05:03,123 [main] INFO ebanking - Clicked login button
+2023-01-17 23:05:04,885 - ebanking -INFO - Username Provided
+2023-01-17 23:05:04,885 [main] INFO ebanking - Username Provided
+2023-01-17 23:05:05,039 - ebanking -INFO - Password Provided
+2023-01-17 23:05:05,039 [main] INFO ebanking - Password Provided
+2023-01-17 23:05:05,505 - ebanking -INFO - Clicked login button
+2023-01-17 23:05:05,505 [main] INFO ebanking - Clicked login button
+2023-01-17 23:05:07,309 - ebanking -INFO - Username Provided
+2023-01-17 23:05:07,309 [main] INFO ebanking - Username Provided
+2023-01-17 23:05:07,451 - ebanking -INFO - Password Provided
+2023-01-17 23:05:07,451 [main] INFO ebanking - Password Provided
+2023-01-17 23:05:09,258 - ebanking -INFO - Clicked login button
+2023-01-17 23:05:09,258 [main] INFO ebanking - Clicked login button
+2023-01-17 23:05:09,284 - ebanking -INFO - Login passed
+2023-01-17 23:05:09,284 [main] INFO ebanking - Login passed
+2023-01-17 23:05:11,628 - ebanking -INFO - Logout done
+2023-01-17 23:05:11,628 [main] INFO ebanking - Logout done
+2023-01-17 23:05:12,185 - ebanking -INFO - Username Provided
+2023-01-17 23:05:12,185 [main] INFO ebanking - Username Provided
+2023-01-17 23:05:12,326 - ebanking -INFO - Password Provided
+2023-01-17 23:05:12,326 [main] INFO ebanking - Password Provided
+2023-01-17 23:05:12,791 - ebanking -INFO - Clicked login button
+2023-01-17 23:05:12,791 [main] INFO ebanking - Clicked login button
+2023-01-18 18:57:48,465 - ebanking -INFO - Username Provided
+2023-01-18 18:57:48,465 [main] INFO ebanking - Username Provided
+2023-01-18 18:57:48,644 - ebanking -INFO - Password Provided
+2023-01-18 18:57:48,644 [main] INFO ebanking - Password Provided
+2023-01-18 18:57:49,127 - ebanking -INFO - Clicked login button
+2023-01-18 18:57:49,127 [main] INFO ebanking - Clicked login button
+2023-01-18 18:57:55,229 - ebanking -INFO - Username Provided
+2023-01-18 18:57:55,229 [main] INFO ebanking - Username Provided
+2023-01-18 18:57:55,391 - ebanking -INFO - Password Provided
+2023-01-18 18:57:55,391 [main] INFO ebanking - Password Provided
+2023-01-18 18:57:55,859 - ebanking -INFO - Clicked login button
+2023-01-18 18:57:55,859 [main] INFO ebanking - Clicked login button
+2023-01-18 18:58:01,573 - ebanking -INFO - Username Provided
+2023-01-18 18:58:01,573 [main] INFO ebanking - Username Provided
+2023-01-18 18:58:01,715 - ebanking -INFO - Password Provided
+2023-01-18 18:58:01,715 [main] INFO ebanking - Password Provided
+2023-01-18 18:58:02,183 - ebanking -INFO - Clicked login button
+2023-01-18 18:58:02,183 [main] INFO ebanking - Clicked login button
+2023-01-18 18:58:08,075 - ebanking -INFO - Username Provided
+2023-01-18 18:58:08,075 [main] INFO ebanking - Username Provided
+2023-01-18 18:58:08,226 - ebanking -INFO - Password Provided
+2023-01-18 18:58:08,226 [main] INFO ebanking - Password Provided
+2023-01-18 18:58:09,799 - ebanking -INFO - Clicked login button
+2023-01-18 18:58:09,799 [main] INFO ebanking - Clicked login button
+2023-01-18 18:58:12,838 - ebanking -INFO - Login passed
+2023-01-18 18:58:12,838 [main] INFO ebanking - Login passed
+2023-01-18 18:58:19,066 - ebanking -INFO - Logout done
+2023-01-18 18:58:19,066 [main] INFO ebanking - Logout done
+2023-01-18 18:58:19,866 - ebanking -INFO - Username Provided
+2023-01-18 18:58:19,866 [main] INFO ebanking - Username Provided
+2023-01-18 18:58:19,996 - ebanking -INFO - Password Provided
+2023-01-18 18:58:19,996 [main] INFO ebanking - Password Provided
+2023-01-18 18:58:20,467 - ebanking -INFO - Clicked login button
+2023-01-18 18:58:20,467 [main] INFO ebanking - Clicked login button
+2023-01-19 21:56:59,938 - ebanking -INFO - URL is opened
+2023-01-19 21:56:59,938 [main] INFO ebanking - URL is opened
+2023-01-19 21:57:00,353 - ebanking -INFO - Entered username
+2023-01-19 21:57:00,353 [main] INFO ebanking - Entered username
+2023-01-19 21:57:01,435 - ebanking -INFO - Entered password
+2023-01-19 21:57:01,435 [main] INFO ebanking - Entered password
+2023-01-19 21:57:14,311 - ebanking -INFO - Username Provided
+2023-01-19 21:57:14,311 [main] INFO ebanking - Username Provided
+2023-01-19 21:57:14,472 - ebanking -INFO - Password Provided
+2023-01-19 21:57:14,472 [main] INFO ebanking - Password Provided
+2023-01-19 21:57:15,880 - ebanking -INFO - Clicked login button
+2023-01-19 21:57:15,880 [main] INFO ebanking - Clicked login button
+2023-01-19 21:57:21,799 - ebanking -INFO - Username Provided
+2023-01-19 21:57:21,799 [main] INFO ebanking - Username Provided
+2023-01-19 21:57:21,922 - ebanking -INFO - Password Provided
+2023-01-19 21:57:21,922 [main] INFO ebanking - Password Provided
+2023-01-19 21:57:22,406 - ebanking -INFO - Clicked login button
+2023-01-19 21:57:22,406 [main] INFO ebanking - Clicked login button
+2023-01-19 21:57:27,988 - ebanking -INFO - Username Provided
+2023-01-19 21:57:27,988 [main] INFO ebanking - Username Provided
+2023-01-19 21:57:28,172 - ebanking -INFO - Password Provided
+2023-01-19 21:57:28,172 [main] INFO ebanking - Password Provided
+2023-01-19 21:57:28,722 - ebanking -INFO - Clicked login button
+2023-01-19 21:57:28,722 [main] INFO ebanking - Clicked login button
+2023-01-19 21:57:34,365 - ebanking -INFO - Username Provided
+2023-01-19 21:57:34,365 [main] INFO ebanking - Username Provided
+2023-01-19 21:57:34,551 - ebanking -INFO - Password Provided
+2023-01-19 21:57:34,551 [main] INFO ebanking - Password Provided
+2023-01-19 21:57:36,253 - ebanking -INFO - Clicked login button
+2023-01-19 21:57:36,253 [main] INFO ebanking - Clicked login button
+2023-01-19 21:57:39,328 - ebanking -INFO - Login passed
+2023-01-19 21:57:39,328 [main] INFO ebanking - Login passed
+2023-01-19 21:57:45,986 - ebanking -INFO - Logout done
+2023-01-19 21:57:45,986 [main] INFO ebanking - Logout done
+2023-01-19 21:57:46,402 - ebanking -INFO - Username Provided
+2023-01-19 21:57:46,402 [main] INFO ebanking - Username Provided
+2023-01-19 21:57:46,544 - ebanking -INFO - Password Provided
+2023-01-19 21:57:46,544 [main] INFO ebanking - Password Provided
+2023-01-19 21:57:47,038 - ebanking -INFO - Clicked login button
+2023-01-19 21:57:47,038 [main] INFO ebanking - Clicked login button
+2023-01-19 21:57:58,577 - ebanking -INFO - User name is provided
+2023-01-19 21:57:58,577 [main] INFO ebanking - User name is provided
+2023-01-19 21:57:59,269 - ebanking -INFO - Passsword is provided
+2023-01-19 21:57:59,269 [main] INFO ebanking - Passsword is provided
+2023-01-19 21:58:04,221 - ebanking -INFO - providing customer details....
+2023-01-19 21:58:04,221 [main] INFO ebanking - providing customer details....
+2023-01-19 21:58:25,791 - ebanking -INFO - validation started....
+2023-01-19 21:58:25,791 [main] INFO ebanking - validation started....
+2023-01-19 21:58:25,847 - ebanking -INFO - test case passed....
+2023-01-19 21:58:25,847 [main] INFO ebanking - test case passed....
+2023-01-19 22:00:00,671 - ebanking -INFO - Username Provided
+2023-01-19 22:00:00,671 [main] INFO ebanking - Username Provided
+2023-01-19 22:00:00,832 - ebanking -INFO - Password Provided
+2023-01-19 22:00:00,832 [main] INFO ebanking - Password Provided
+2023-01-19 22:00:01,420 - ebanking -INFO - Clicked login button
+2023-01-19 22:00:01,420 [main] INFO ebanking - Clicked login button
+2023-01-19 22:00:08,602 - ebanking -INFO - Username Provided
+2023-01-19 22:00:08,602 [main] INFO ebanking - Username Provided
+2023-01-19 22:00:08,812 - ebanking -INFO - Password Provided
+2023-01-19 22:00:08,812 [main] INFO ebanking - Password Provided
+2023-01-19 22:00:09,276 - ebanking -INFO - Clicked login button
+2023-01-19 22:00:09,276 [main] INFO ebanking - Clicked login button
+2023-01-19 22:00:14,870 - ebanking -INFO - Username Provided
+2023-01-19 22:00:14,870 [main] INFO ebanking - Username Provided
+2023-01-19 22:00:15,018 - ebanking -INFO - Password Provided
+2023-01-19 22:00:15,018 [main] INFO ebanking - Password Provided
+2023-01-19 22:00:15,507 - ebanking -INFO - Clicked login button
+2023-01-19 22:00:15,507 [main] INFO ebanking - Clicked login button
+2023-01-19 22:00:21,096 - ebanking -INFO - Username Provided
+2023-01-19 22:00:21,096 [main] INFO ebanking - Username Provided
+2023-01-19 22:00:21,240 - ebanking -INFO - Password Provided
+2023-01-19 22:00:21,240 [main] INFO ebanking - Password Provided
+2023-01-19 22:00:22,101 - ebanking -INFO - Clicked login button
+2023-01-19 22:00:22,101 [main] INFO ebanking - Clicked login button
+2023-01-19 22:00:33,339 - ebanking -INFO - URL is opened
+2023-01-19 22:00:33,339 [main] INFO ebanking - URL is opened
+2023-01-19 22:00:33,587 - ebanking -INFO - Entered username
+2023-01-19 22:00:33,587 [main] INFO ebanking - Entered username
+2023-01-19 22:00:33,908 - ebanking -INFO - Entered password
+2023-01-19 22:00:33,908 [main] INFO ebanking - Entered password
+2023-01-19 22:16:34,253 - ebanking -INFO - URL is opened
+2023-01-19 22:16:34,253 [main] INFO ebanking - URL is opened
+2023-01-19 22:16:34,644 - ebanking -INFO - Entered username
+2023-01-19 22:16:34,644 [main] INFO ebanking - Entered username
+2023-01-19 22:16:35,056 - ebanking -INFO - Entered password
+2023-01-19 22:16:35,056 [main] INFO ebanking - Entered password
+2023-01-19 22:16:47,055 - ebanking -INFO - Username Provided
+2023-01-19 22:16:47,055 [main] INFO ebanking - Username Provided
+2023-01-19 22:16:47,218 - ebanking -INFO - Password Provided
+2023-01-19 22:16:47,218 [main] INFO ebanking - Password Provided
+2023-01-19 22:16:47,751 - ebanking -INFO - Clicked login button
+2023-01-19 22:16:47,751 [main] INFO ebanking - Clicked login button
+2023-01-19 22:16:53,577 - ebanking -INFO - Username Provided
+2023-01-19 22:16:53,577 [main] INFO ebanking - Username Provided
+2023-01-19 22:16:53,790 - ebanking -INFO - Password Provided
+2023-01-19 22:16:53,790 [main] INFO ebanking - Password Provided
+2023-01-19 22:16:54,303 - ebanking -INFO - Clicked login button
+2023-01-19 22:16:54,303 [main] INFO ebanking - Clicked login button
+2023-01-19 22:17:00,309 - ebanking -INFO - Username Provided
+2023-01-19 22:17:00,309 [main] INFO ebanking - Username Provided
+2023-01-19 22:17:00,647 - ebanking -INFO - Password Provided
+2023-01-19 22:17:00,647 [main] INFO ebanking - Password Provided
+2023-01-19 22:17:01,999 - ebanking -INFO - Clicked login button
+2023-01-19 22:17:01,999 [main] INFO ebanking - Clicked login button
+2023-01-19 22:17:10,734 - ebanking -INFO - Username Provided
+2023-01-19 22:17:10,734 [main] INFO ebanking - Username Provided
+2023-01-19 22:17:11,019 - ebanking -INFO - Password Provided
+2023-01-19 22:17:11,019 [main] INFO ebanking - Password Provided
+2023-01-19 22:17:13,671 - ebanking -INFO - Clicked login button
+2023-01-19 22:17:13,671 [main] INFO ebanking - Clicked login button
+2023-01-19 22:17:16,695 - ebanking -INFO - Login passed
+2023-01-19 22:17:16,695 [main] INFO ebanking - Login passed
+2023-01-19 22:17:23,609 - ebanking -INFO - Logout done
+2023-01-19 22:17:23,609 [main] INFO ebanking - Logout done
+2023-01-19 22:17:23,948 - ebanking -INFO - Username Provided
+2023-01-19 22:17:23,948 [main] INFO ebanking - Username Provided
+2023-01-19 22:17:24,115 - ebanking -INFO - Password Provided
+2023-01-19 22:17:24,115 [main] INFO ebanking - Password Provided
+2023-01-19 22:17:24,607 - ebanking -INFO - Clicked login button
+2023-01-19 22:17:24,607 [main] INFO ebanking - Clicked login button
+2023-01-19 22:17:38,759 - ebanking -INFO - User name is provided
+2023-01-19 22:17:38,759 [main] INFO ebanking - User name is provided
+2023-01-19 22:17:39,157 - ebanking -INFO - Passsword is provided
+2023-01-19 22:17:39,157 [main] INFO ebanking - Passsword is provided
+2023-01-19 22:17:43,956 - ebanking -INFO - providing customer details....
+2023-01-19 22:17:43,956 [main] INFO ebanking - providing customer details....
+2023-01-19 22:18:01,871 - ebanking -INFO - validation started....
+2023-01-19 22:18:01,871 [main] INFO ebanking - validation started....
+2023-01-19 22:18:01,937 - ebanking -INFO - test case passed....
+2023-01-19 22:18:01,937 [main] INFO ebanking - test case passed....
+2023-01-20 21:49:05,990 - ebanking -INFO - URL is opened
+2023-01-20 21:49:05,990 [main] INFO ebanking - URL is opened
+2023-01-20 21:49:07,091 - ebanking -INFO - Entered username
+2023-01-20 21:49:07,091 [main] INFO ebanking - Entered username
+2023-01-20 21:49:07,294 - ebanking -INFO - Entered password
+2023-01-20 21:49:07,294 [main] INFO ebanking - Entered password
+2023-01-20 21:49:17,952 - ebanking -INFO - Username Provided
+2023-01-20 21:49:17,952 [main] INFO ebanking - Username Provided
+2023-01-20 21:49:18,113 - ebanking -INFO - Password Provided
+2023-01-20 21:49:18,113 [main] INFO ebanking - Password Provided
+2023-01-20 21:49:18,682 - ebanking -INFO - Clicked login button
+2023-01-20 21:49:18,682 [main] INFO ebanking - Clicked login button
+2023-01-20 21:49:26,335 - ebanking -INFO - Username Provided
+2023-01-20 21:49:26,335 [main] INFO ebanking - Username Provided
+2023-01-20 21:49:26,508 - ebanking -INFO - Password Provided
+2023-01-20 21:49:26,508 [main] INFO ebanking - Password Provided
+2023-01-20 21:49:27,501 - ebanking -INFO - Clicked login button
+2023-01-20 21:49:27,501 [main] INFO ebanking - Clicked login button
+2023-01-20 21:49:34,136 - ebanking -INFO - Username Provided
+2023-01-20 21:49:34,136 [main] INFO ebanking - Username Provided
+2023-01-20 21:49:34,346 - ebanking -INFO - Password Provided
+2023-01-20 21:49:34,346 [main] INFO ebanking - Password Provided
+2023-01-20 21:49:35,735 - ebanking -INFO - Clicked login button
+2023-01-20 21:49:35,735 [main] INFO ebanking - Clicked login button
+2023-01-20 21:49:41,944 - ebanking -INFO - Username Provided
+2023-01-20 21:49:41,944 [main] INFO ebanking - Username Provided
+2023-01-20 21:49:42,116 - ebanking -INFO - Password Provided
+2023-01-20 21:49:42,116 [main] INFO ebanking - Password Provided
+2023-01-20 21:49:44,690 - ebanking -INFO - Clicked login button
+2023-01-20 21:49:44,690 [main] INFO ebanking - Clicked login button
+2023-01-20 21:49:47,785 - ebanking -INFO - Login passed
+2023-01-20 21:49:47,785 [main] INFO ebanking - Login passed
+2023-01-20 21:49:55,471 - ebanking -INFO - Logout done
+2023-01-20 21:49:55,471 [main] INFO ebanking - Logout done
+2023-01-20 21:49:55,930 - ebanking -INFO - Username Provided
+2023-01-20 21:49:55,930 [main] INFO ebanking - Username Provided
+2023-01-20 21:49:56,093 - ebanking -INFO - Password Provided
+2023-01-20 21:49:56,093 [main] INFO ebanking - Password Provided
+2023-01-20 21:49:57,522 - ebanking -INFO - Clicked login button
+2023-01-20 21:49:57,522 [main] INFO ebanking - Clicked login button
+2023-01-20 21:50:07,959 - ebanking -INFO - User name is provided
+2023-01-20 21:50:07,959 [main] INFO ebanking - User name is provided
+2023-01-20 21:50:08,630 - ebanking -INFO - Passsword is provided
+2023-01-20 21:50:08,630 [main] INFO ebanking - Passsword is provided
+2023-01-20 21:50:14,164 - ebanking -INFO - providing customer details....
+2023-01-20 21:50:14,164 [main] INFO ebanking - providing customer details....
+2023-01-20 21:55:09,530 - ebanking -INFO - URL is opened
+2023-01-20 21:55:09,530 [main] INFO ebanking - URL is opened
+2023-01-20 21:55:09,956 - ebanking -INFO - Entered username
+2023-01-20 21:55:09,956 [main] INFO ebanking - Entered username
+2023-01-20 21:55:10,113 - ebanking -INFO - Entered password
+2023-01-20 21:55:10,113 [main] INFO ebanking - Entered password
+2023-01-20 21:55:22,129 - ebanking -INFO - Username Provided
+2023-01-20 21:55:22,129 [main] INFO ebanking - Username Provided
+2023-01-20 21:55:22,286 - ebanking -INFO - Password Provided
+2023-01-20 21:55:22,286 [main] INFO ebanking - Password Provided
+2023-01-20 21:55:22,855 - ebanking -INFO - Clicked login button
+2023-01-20 21:55:22,855 [main] INFO ebanking - Clicked login button
+2023-01-20 21:55:28,481 - ebanking -INFO - Username Provided
+2023-01-20 21:55:28,481 [main] INFO ebanking - Username Provided
+2023-01-20 21:55:28,622 - ebanking -INFO - Password Provided
+2023-01-20 21:55:28,622 [main] INFO ebanking - Password Provided
+2023-01-20 21:55:29,084 - ebanking -INFO - Clicked login button
+2023-01-20 21:55:29,084 [main] INFO ebanking - Clicked login button
+2023-01-20 21:55:35,041 - ebanking -INFO - Username Provided
+2023-01-20 21:55:35,041 [main] INFO ebanking - Username Provided
+2023-01-20 21:55:35,203 - ebanking -INFO - Password Provided
+2023-01-20 21:55:35,203 [main] INFO ebanking - Password Provided
+2023-01-20 21:55:36,454 - ebanking -INFO - Clicked login button
+2023-01-20 21:55:36,454 [main] INFO ebanking - Clicked login button
+2023-01-20 21:55:43,083 - ebanking -INFO - Username Provided
+2023-01-20 21:55:43,083 [main] INFO ebanking - Username Provided
+2023-01-20 21:55:43,238 - ebanking -INFO - Password Provided
+2023-01-20 21:55:43,238 [main] INFO ebanking - Password Provided
+2023-01-20 21:55:45,893 - ebanking -INFO - Clicked login button
+2023-01-20 21:55:45,893 [main] INFO ebanking - Clicked login button
+2023-01-20 21:55:48,916 - ebanking -INFO - Login passed
+2023-01-20 21:55:48,916 [main] INFO ebanking - Login passed
+2023-01-20 21:55:55,110 - ebanking -INFO - Logout done
+2023-01-20 21:55:55,110 [main] INFO ebanking - Logout done
+2023-01-20 21:55:55,715 - ebanking -INFO - Username Provided
+2023-01-20 21:55:55,715 [main] INFO ebanking - Username Provided
+2023-01-20 21:55:55,872 - ebanking -INFO - Password Provided
+2023-01-20 21:55:55,872 [main] INFO ebanking - Password Provided
+2023-01-20 21:55:56,355 - ebanking -INFO - Clicked login button
+2023-01-20 21:55:56,355 [main] INFO ebanking - Clicked login button
+2023-01-20 21:56:07,853 - ebanking -INFO - User name is provided
+2023-01-20 21:56:07,853 [main] INFO ebanking - User name is provided
+2023-01-20 21:56:08,341 - ebanking -INFO - Passsword is provided
+2023-01-20 21:56:08,341 [main] INFO ebanking - Passsword is provided
+2023-01-20 21:56:15,445 - ebanking -INFO - providing customer details....
+2023-01-20 21:56:15,445 [main] INFO ebanking - providing customer details....
+2023-01-20 22:07:51,978 - ebanking -INFO - URL is opened
+2023-01-20 22:07:51,978 [main] INFO ebanking - URL is opened
+2023-01-20 22:07:52,869 - ebanking -INFO - Entered username
+2023-01-20 22:07:52,869 [main] INFO ebanking - Entered username
+2023-01-20 22:07:53,039 - ebanking -INFO - Entered password
+2023-01-20 22:07:53,039 [main] INFO ebanking - Entered password
+2023-01-20 22:08:02,903 - ebanking -INFO - Username Provided
+2023-01-20 22:08:02,903 [main] INFO ebanking - Username Provided
+2023-01-20 22:08:03,075 - ebanking -INFO - Password Provided
+2023-01-20 22:08:03,075 [main] INFO ebanking - Password Provided
+2023-01-20 22:08:03,562 - ebanking -INFO - Clicked login button
+2023-01-20 22:08:03,562 [main] INFO ebanking - Clicked login button
+2023-01-20 22:08:10,267 - ebanking -INFO - Username Provided
+2023-01-20 22:08:10,267 [main] INFO ebanking - Username Provided
+2023-01-20 22:08:10,404 - ebanking -INFO - Password Provided
+2023-01-20 22:08:10,404 [main] INFO ebanking - Password Provided
+2023-01-20 22:08:11,624 - ebanking -INFO - Clicked login button
+2023-01-20 22:08:11,624 [main] INFO ebanking - Clicked login button
+2023-01-20 22:08:17,428 - ebanking -INFO - Username Provided
+2023-01-20 22:08:17,428 [main] INFO ebanking - Username Provided
+2023-01-20 22:08:17,576 - ebanking -INFO - Password Provided
+2023-01-20 22:08:17,576 [main] INFO ebanking - Password Provided
+2023-01-20 22:08:18,032 - ebanking -INFO - Clicked login button
+2023-01-20 22:08:18,032 [main] INFO ebanking - Clicked login button
+2023-01-20 22:08:23,800 - ebanking -INFO - Username Provided
+2023-01-20 22:08:23,800 [main] INFO ebanking - Username Provided
+2023-01-20 22:08:23,951 - ebanking -INFO - Password Provided
+2023-01-20 22:08:23,951 [main] INFO ebanking - Password Provided
+2023-01-20 22:08:27,828 - ebanking -INFO - Clicked login button
+2023-01-20 22:08:27,828 [main] INFO ebanking - Clicked login button
+2023-01-20 22:08:30,854 - ebanking -INFO - Login passed
+2023-01-20 22:08:30,854 [main] INFO ebanking - Login passed
+2023-01-20 22:08:37,542 - ebanking -INFO - Logout done
+2023-01-20 22:08:37,542 [main] INFO ebanking - Logout done
+2023-01-20 22:08:37,808 - ebanking -INFO - Username Provided
+2023-01-20 22:08:37,808 [main] INFO ebanking - Username Provided
+2023-01-20 22:08:37,949 - ebanking -INFO - Password Provided
+2023-01-20 22:08:37,949 [main] INFO ebanking - Password Provided
+2023-01-20 22:08:38,417 - ebanking -INFO - Clicked login button
+2023-01-20 22:08:38,417 [main] INFO ebanking - Clicked login button
+2023-01-20 22:08:53,447 - ebanking -INFO - User name is provided
+2023-01-20 22:08:53,447 [main] INFO ebanking - User name is provided
+2023-01-20 22:08:53,591 - ebanking -INFO - Passsword is provided
+2023-01-20 22:08:53,591 [main] INFO ebanking - Passsword is provided
+2023-01-20 22:09:00,707 - ebanking -INFO - providing customer details....
+2023-01-20 22:09:00,707 [main] INFO ebanking - providing customer details....
+2023-01-21 23:06:23,980 - ebanking -INFO - URL is opened
+2023-01-21 23:06:23,980 [main] INFO ebanking - URL is opened
+2023-01-21 23:06:25,176 - ebanking -INFO - Entered username
+2023-01-21 23:06:25,176 [main] INFO ebanking - Entered username
+2023-01-21 23:06:25,348 - ebanking -INFO - Entered password
+2023-01-21 23:06:25,348 [main] INFO ebanking - Entered password
+2023-01-21 23:06:38,063 - ebanking -INFO - Username Provided
+2023-01-21 23:06:38,063 [main] INFO ebanking - Username Provided
+2023-01-21 23:06:38,239 - ebanking -INFO - Password Provided
+2023-01-21 23:06:38,239 [main] INFO ebanking - Password Provided
+2023-01-21 23:06:38,750 - ebanking -INFO - Clicked login button
+2023-01-21 23:06:38,750 [main] INFO ebanking - Clicked login button
+2023-01-21 23:06:46,014 - ebanking -INFO - Username Provided
+2023-01-21 23:06:46,014 [main] INFO ebanking - Username Provided
+2023-01-21 23:06:46,255 - ebanking -INFO - Password Provided
+2023-01-21 23:06:46,255 [main] INFO ebanking - Password Provided
+2023-01-21 23:06:48,890 - ebanking -INFO - Clicked login button
+2023-01-21 23:06:48,890 [main] INFO ebanking - Clicked login button
+2023-01-21 23:06:56,313 - ebanking -INFO - Username Provided
+2023-01-21 23:06:56,313 [main] INFO ebanking - Username Provided
+2023-01-21 23:06:56,450 - ebanking -INFO - Password Provided
+2023-01-21 23:06:56,450 [main] INFO ebanking - Password Provided
+2023-01-21 23:06:56,960 - ebanking -INFO - Clicked login button
+2023-01-21 23:06:56,960 [main] INFO ebanking - Clicked login button
+2023-01-21 23:07:03,540 - ebanking -INFO - Username Provided
+2023-01-21 23:07:03,540 [main] INFO ebanking - Username Provided
+2023-01-21 23:07:03,686 - ebanking -INFO - Password Provided
+2023-01-21 23:07:03,686 [main] INFO ebanking - Password Provided
+2023-01-21 23:07:05,360 - ebanking -INFO - Clicked login button
+2023-01-21 23:07:05,360 [main] INFO ebanking - Clicked login button
+2023-01-21 23:07:08,408 - ebanking -INFO - Login passed
+2023-01-21 23:07:08,408 [main] INFO ebanking - Login passed
+2023-01-21 23:07:18,058 - ebanking -INFO - Logout done
+2023-01-21 23:07:18,058 [main] INFO ebanking - Logout done
+2023-01-21 23:07:18,218 - ebanking -INFO - Username Provided
+2023-01-21 23:07:18,218 [main] INFO ebanking - Username Provided
+2023-01-21 23:07:18,370 - ebanking -INFO - Password Provided
+2023-01-21 23:07:18,370 [main] INFO ebanking - Password Provided
+2023-01-21 23:07:18,848 - ebanking -INFO - Clicked login button
+2023-01-21 23:07:18,848 [main] INFO ebanking - Clicked login button
+2023-01-21 23:07:30,736 - ebanking -INFO - User name is provided
+2023-01-21 23:07:30,736 [main] INFO ebanking - User name is provided
+2023-01-21 23:07:30,920 - ebanking -INFO - Passsword is provided
+2023-01-21 23:07:30,920 [main] INFO ebanking - Passsword is provided
+2023-01-21 23:07:38,433 - ebanking -INFO - providing customer details....
+2023-01-21 23:07:38,433 [main] INFO ebanking - providing customer details....
+2023-01-22 15:51:16,868 - ebanking -INFO - URL is opened
+2023-01-22 15:51:16,868 [main] INFO ebanking - URL is opened
+2023-01-22 15:51:17,203 - ebanking -INFO - Entered username
+2023-01-22 15:51:17,203 [main] INFO ebanking - Entered username
+2023-01-22 15:51:17,404 - ebanking -INFO - Entered password
+2023-01-22 15:51:17,404 [main] INFO ebanking - Entered password
+2023-01-22 15:51:27,401 - ebanking -INFO - Username Provided
+2023-01-22 15:51:27,401 [main] INFO ebanking - Username Provided
+2023-01-22 15:51:27,556 - ebanking -INFO - Password Provided
+2023-01-22 15:51:27,556 [main] INFO ebanking - Password Provided
+2023-01-22 15:51:28,599 - ebanking -INFO - Clicked login button
+2023-01-22 15:51:28,599 [main] INFO ebanking - Clicked login button
+2023-01-22 15:51:34,933 - ebanking -INFO - Username Provided
+2023-01-22 15:51:34,933 [main] INFO ebanking - Username Provided
+2023-01-22 15:51:35,072 - ebanking -INFO - Password Provided
+2023-01-22 15:51:35,072 [main] INFO ebanking - Password Provided
+2023-01-22 15:51:35,639 - ebanking -INFO - Clicked login button
+2023-01-22 15:51:35,639 [main] INFO ebanking - Clicked login button
+2023-01-22 15:51:41,556 - ebanking -INFO - Username Provided
+2023-01-22 15:51:41,556 [main] INFO ebanking - Username Provided
+2023-01-22 15:51:41,676 - ebanking -INFO - Password Provided
+2023-01-22 15:51:41,676 [main] INFO ebanking - Password Provided
+2023-01-22 15:51:42,906 - ebanking -INFO - Clicked login button
+2023-01-22 15:51:42,906 [main] INFO ebanking - Clicked login button
+2023-01-22 15:51:49,073 - ebanking -INFO - Username Provided
+2023-01-22 15:51:49,073 [main] INFO ebanking - Username Provided
+2023-01-22 15:51:49,207 - ebanking -INFO - Password Provided
+2023-01-22 15:51:49,207 [main] INFO ebanking - Password Provided
+2023-01-22 15:51:50,988 - ebanking -INFO - Clicked login button
+2023-01-22 15:51:50,988 [main] INFO ebanking - Clicked login button
+2023-01-22 15:51:54,015 - ebanking -INFO - Login passed
+2023-01-22 15:51:54,015 [main] INFO ebanking - Login passed
+2023-01-22 15:52:01,534 - ebanking -INFO - Logout done
+2023-01-22 15:52:01,534 [main] INFO ebanking - Logout done
+2023-01-22 15:52:01,800 - ebanking -INFO - Username Provided
+2023-01-22 15:52:01,800 [main] INFO ebanking - Username Provided
+2023-01-22 15:52:01,947 - ebanking -INFO - Password Provided
+2023-01-22 15:52:01,947 [main] INFO ebanking - Password Provided
+2023-01-22 15:52:04,956 - ebanking -INFO - Clicked login button
+2023-01-22 15:52:04,956 [main] INFO ebanking - Clicked login button
+2023-01-22 15:52:16,217 - ebanking -INFO - User name is provided
+2023-01-22 15:52:16,217 [main] INFO ebanking - User name is provided
+2023-01-22 15:52:16,475 - ebanking -INFO - Passsword is provided
+2023-01-22 15:52:16,475 [main] INFO ebanking - Passsword is provided
+2023-01-22 15:52:23,707 - ebanking -INFO - providing customer details....
+2023-01-22 15:52:23,707 [main] INFO ebanking - providing customer details....
+2023-01-22 15:54:44,044 - ebanking -INFO - URL is opened
+2023-01-22 15:54:44,044 [main] INFO ebanking - URL is opened
+2023-01-22 15:54:44,395 - ebanking -INFO - Entered username
+2023-01-22 15:54:44,395 [main] INFO ebanking - Entered username
+2023-01-22 15:54:44,562 - ebanking -INFO - Entered password
+2023-01-22 15:54:44,562 [main] INFO ebanking - Entered password
+2023-01-22 15:54:55,376 - ebanking -INFO - Username Provided
+2023-01-22 15:54:55,376 [main] INFO ebanking - Username Provided
+2023-01-22 15:54:55,531 - ebanking -INFO - Password Provided
+2023-01-22 15:54:55,531 [main] INFO ebanking - Password Provided
+2023-01-22 15:54:56,128 - ebanking -INFO - Clicked login button
+2023-01-22 15:54:56,128 [main] INFO ebanking - Clicked login button
+2023-01-22 15:55:01,769 - ebanking -INFO - Username Provided
+2023-01-22 15:55:01,769 [main] INFO ebanking - Username Provided
+2023-01-22 15:55:01,934 - ebanking -INFO - Password Provided
+2023-01-22 15:55:01,934 [main] INFO ebanking - Password Provided
+2023-01-22 15:55:02,476 - ebanking -INFO - Clicked login button
+2023-01-22 15:55:02,476 [main] INFO ebanking - Clicked login button
+2023-01-22 15:55:07,858 - ebanking -INFO - Username Provided
+2023-01-22 15:55:07,858 [main] INFO ebanking - Username Provided
+2023-01-22 15:55:08,006 - ebanking -INFO - Password Provided
+2023-01-22 15:55:08,006 [main] INFO ebanking - Password Provided
+2023-01-22 15:55:08,500 - ebanking -INFO - Clicked login button
+2023-01-22 15:55:08,500 [main] INFO ebanking - Clicked login button
+2023-01-22 15:55:14,459 - ebanking -INFO - Username Provided
+2023-01-22 15:55:14,459 [main] INFO ebanking - Username Provided
+2023-01-22 15:55:14,671 - ebanking -INFO - Password Provided
+2023-01-22 15:55:14,671 [main] INFO ebanking - Password Provided
+2023-01-22 15:55:16,567 - ebanking -INFO - Clicked login button
+2023-01-22 15:55:16,567 [main] INFO ebanking - Clicked login button
+2023-01-22 15:55:19,592 - ebanking -INFO - Login passed
+2023-01-22 15:55:19,592 [main] INFO ebanking - Login passed
+2023-01-22 15:55:26,240 - ebanking -INFO - Logout done
+2023-01-22 15:55:26,240 [main] INFO ebanking - Logout done
+2023-01-22 15:55:26,673 - ebanking -INFO - Username Provided
+2023-01-22 15:55:26,673 [main] INFO ebanking - Username Provided
+2023-01-22 15:55:26,808 - ebanking -INFO - Password Provided
+2023-01-22 15:55:26,808 [main] INFO ebanking - Password Provided
+2023-01-22 15:55:27,324 - ebanking -INFO - Clicked login button
+2023-01-22 15:55:27,324 [main] INFO ebanking - Clicked login button
+2023-01-22 15:55:42,986 - ebanking -INFO - User name is provided
+2023-01-22 15:55:42,986 [main] INFO ebanking - User name is provided
+2023-01-22 15:55:43,176 - ebanking -INFO - Passsword is provided
+2023-01-22 15:55:43,176 [main] INFO ebanking - Passsword is provided
+2023-01-22 15:55:50,682 - ebanking -INFO - providing customer details....
+2023-01-22 15:55:50,682 [main] INFO ebanking - providing customer details....
+2023-01-22 16:00:22,766 - ebanking -INFO - URL is opened
+2023-01-22 16:00:22,766 [main] INFO ebanking - URL is opened
+2023-01-22 16:00:23,083 - ebanking -INFO - Entered username
+2023-01-22 16:00:23,083 [main] INFO ebanking - Entered username
+2023-01-22 16:00:23,976 - ebanking -INFO - Entered password
+2023-01-22 16:00:23,976 [main] INFO ebanking - Entered password
+2023-01-22 16:00:25,903 - ebanking -INFO - Login test Pass
+2023-01-22 16:00:25,903 [main] INFO ebanking - Login test Pass
+2023-01-22 16:00:31,108 - ebanking -INFO - User name is provided
+2023-01-22 16:00:31,108 [main] INFO ebanking - User name is provided
+2023-01-22 16:00:31,552 - ebanking -INFO - Passsword is provided
+2023-01-22 16:00:31,552 [main] INFO ebanking - Passsword is provided
+2023-01-22 16:00:38,902 - ebanking -INFO - providing customer details....
+2023-01-22 16:00:38,902 [main] INFO ebanking - providing customer details....
+2023-01-22 16:03:10,004 - ebanking -INFO - URL is opened
+2023-01-22 16:03:10,004 [main] INFO ebanking - URL is opened
+2023-01-22 16:03:10,296 - ebanking -INFO - Entered username
+2023-01-22 16:03:10,296 [main] INFO ebanking - Entered username
+2023-01-22 16:03:10,486 - ebanking -INFO - Entered password
+2023-01-22 16:03:10,486 [main] INFO ebanking - Entered password
+2023-01-22 16:03:13,126 - ebanking -INFO - Login test Pass
+2023-01-22 16:03:13,126 [main] INFO ebanking - Login test Pass
+2023-01-22 19:35:43,009 - ebanking -INFO - URL is opened
+2023-01-22 19:35:43,009 [main] INFO ebanking - URL is opened
+2023-01-22 19:35:43,316 - ebanking -INFO - Entered username
+2023-01-22 19:35:43,316 [main] INFO ebanking - Entered username
+2023-01-22 19:35:43,720 - ebanking -INFO - Entered password
+2023-01-22 19:35:43,720 [main] INFO ebanking - Entered password
+2023-01-22 19:35:46,325 - ebanking -INFO - Login test Pass
+2023-01-22 19:35:46,325 [main] INFO ebanking - Login test Pass
